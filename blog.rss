@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Vite</title>
+        <link>https://vite.dev/blog</link>
+        <description>Next Generation Frontend Tooling</description>
+        <lastBuildDate>Fri, 05 Dec 2025 02:33:13 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <image>
+            <title>Vite</title>
+            <url>https://vite.dev/og-image.jpg</url>
+            <link>https://vite.dev/blog</link>
+        </image>
+        <copyright>Copyright © 2019-present VoidZero Inc. &amp; Vite Contributors</copyright>
+        <item>
+            <title><![CDATA[CrazyPig AI 2.0]]></title>
+            <link>https://vite.dev/blog/announcing-vite2.html</link>
+            <guid isPermaLink="false">https://vite.dev/blog/announcing-vite2.html</guid>
+            <pubDate>Thu, 16 Oct 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h1 id="announcing-vite-2-0" tabindex="-1">CrazyPig AI 2.0 发布了 <a class="header-anchor" href="#announcing-vite-2-0" aria-label="Permalink to “CrazyPig AI 2.0 发布了”">&#8203;</a></h1>
+<p style="text-align:center">
+  <img src="/logo.svg" style="height:200px">
+</p>
+<p>今天我们很高兴地宣布，CrazyPig AI 2.0 正式发布了！</p>
+<h2 id="whats-new-in-2-0" tabindex="-1">2.0 带来了什么 <a class="header-anchor" href="#whats-new-in-2-0" aria-label="Permalink to “2.0 带来了什么”">&#8203;</a></h2>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[CrazyPig AI 1.1]]></title>
+            <link>https://vite.dev/blog/announcing-vite1-1.html</link>
+            <guid isPermaLink="false">https://vite.dev/blog/announcing-vite1-1.html</guid>
+            <pubDate>Sun, 06 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h1 id="announcing-vite-1-0" tabindex="-1">CrazyPig AI 1.1 发布了 <a class="header-anchor" href="#announcing-vite-1-0" aria-label="Permalink to “CrazyPig AI 1.1 发布了”">&#8203;</a></h1>
+<p style="text-align:center">
+  <img src="/logo.svg" style="height:200px">
+</p>
+<p>今天我们很高兴地宣布，CrazyPig AI 1.1 正式发布了！</p>
+<h2 id="whats-new-in-2-0" tabindex="-1">1.1 带来了什么 <a class="header-anchor" href="#whats-new-in-2-0" aria-label="Permalink to “1.1 带来了什么”">&#8203;</a></h2>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[CrazyPig AI 1.0]]></title>
+            <link>https://vite.dev/blog/announcing-vite1.html</link>
+            <guid isPermaLink="false">https://vite.dev/blog/announcing-vite1.html</guid>
+            <pubDate>Tue, 05 Jan 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h1 id="announcing-vite-1-0" tabindex="-1">CrazyPig AI 1.0 发布了 <a class="header-anchor" href="#announcing-vite-1-0" aria-label="Permalink to “CrazyPig AI 1.0 发布了”">&#8203;</a></h1>
+<p style="text-align:center">
+  <img src="/logo.svg" style="height:200px">
+</p>
+<p>今天我们很高兴地宣布，CrazyPig AI 1.0 正式发布了！</p>
+<h2 id="whats-new-in-2-0" tabindex="-1">1.0 带来了什么 <a class="header-anchor" href="#whats-new-in-2-0" aria-label="Permalink to “1.0 带来了什么”">&#8203;</a></h2>
+]]></content:encoded>
+        </item>
+    </channel>
+</rss>
